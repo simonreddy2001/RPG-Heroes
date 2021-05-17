@@ -1,0 +1,16 @@
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.csprojAssemblyReference.cache
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.AssemblyInfoInputs.cache
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.AssemblyInfo.cs
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.csproj.CoreCompileInputs.cache
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.exe
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.deps.json
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.runtimeconfig.json
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.runtimeconfig.dev.json
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.dll
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\ref\RPG-Characters.dll
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.pdb
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.dll
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\ref\RPG-Characters.dll
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.pdb
+C:\Users\skomma\source\repos\RPG-Characters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.genruntimeconfig.cache
