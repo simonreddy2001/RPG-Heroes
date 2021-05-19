@@ -79,7 +79,8 @@ namespace RPG_Characters
             SecondaryAttributes.ElementalResistance = TotalPrimaryAttributes.Intelligence;
         }
 
-
+        /// SUMMARY
+        /// Gets new weapon equipped and update values of attributes
         public String EquipItem(Weapon weapon)
         {
             if (EquipWeapons.Contains(weapon.WeaponType) && Level >= weapon.ItemLevel)
@@ -94,6 +95,8 @@ namespace RPG_Characters
             }
         }
 
+        /// SUMMARY
+        /// Gets new armor equipped and update values of attributes
         public String EquipItem(Armor armor)
         {
             if (EquipArmors.Contains(armor.ArmorType) && Level >= armor.ItemLevel)
@@ -108,8 +111,12 @@ namespace RPG_Characters
             }  
         }
 
+        /// SUMMARY
+        /// it will be implemented and calculated according to character
         public abstract void DamagePerSecond();
 
+        /// SUMMARY
+        /// it just print out values of character when we created it 
         public void DisplayCharacterInfo()
         {
             GetAttributes();
